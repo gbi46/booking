@@ -1,0 +1,15 @@
+a.apt_btn {
+    background: url("../themes/atlas/images/design/active.gif") repeat-x scroll 0 0 transparent;
+}
+.info-tabs .ui-tabs-nav .ui-state-default {
+    background: url("../themes/atlas/images/design/active.gif") repeat-x scroll 0 0 transparent;
+}
+#loading-blocks {
+    background: rgba(0, 0, 0, 0) url("../images/ajax-loader-blocks.gif") no-repeat scroll center center;
+}
+div.big-special-offer {
+    background: url("../images/star_rubber_left.png") no-repeat scroll left top #DDEBFF;
+}
+#waermarkPositionTemplate {
+    background-image: url(../images/empty-photo-template.png);
+}
